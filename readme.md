@@ -1,6 +1,14 @@
 <div align="center">
 
-# 🕹️ DWCREWKIPTON 🕹️
+```     _                                _    _       _              
+  __| |_      _____ _ __ _____      _| | _(_)_ __ | |_ ___  _ __  
+ / _` \ \ /\ / / __| '__/ _ \ \ /\ / / |/ / | '_ \| __/ _ \| '_ \ 
+| (_| |\ V  V / (__| | |  __/\ V  V /|   <| | |_) | || (_) | | | |
+ \__,_| \_/\_/ \___|_|  \___| \_/\_/ |_|\_\_| .__/ \__\___/|_| |_|
+                                            |_|                   
+
+```
+
 
 <img src="https://img.shields.io/badge/STATUS-LOADING...-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=purple&color=hotpink">
 
